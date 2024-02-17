@@ -1,3 +1,3 @@
 # Instagram clone
 
-A new Flutter project.
+Made using flutter here is a screenshot ![screenshot](image.png)
