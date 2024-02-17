@@ -1,2 +1,3 @@
-# instagram-clone
-instagram front clone using flutter
+# Instagram clone
+
+A new Flutter project.
